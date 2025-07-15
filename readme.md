@@ -21,23 +21,11 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=2Header+%7C+Custom+limits.h+Constants&font=Fira+Code&center=true&width=500&height=45&color=FF5500&pause=0&speed=50&size=26&vCenter=true" alt="2Header | Custom limits.h Constants"/>
+  <img src="https://img.shields.io/badge/2Header-Custom%20limits.h-orange?style=for-the-badge&logo=c" alt="2Header Badge" />
 </p>
-
-<p align="center" style="color:#999999; font-family:'Fira Code', monospace; font-size:20px;">
-  Pure C &nbsp;|&nbsp; No Macros &nbsp;|&nbsp; From Scratch
-</p>
-
-
-
----
-
 ## About
 
 **`2.hHeader`** reimplements the core constants from `<limits.h>` using **pure C**, with no macros, no standard includes, and no external dependencies.  
 All values are defined as global `const` variables with standard-conforming behavior — ideal for education, portability, and introspection.
-
----
-
-## Usage
